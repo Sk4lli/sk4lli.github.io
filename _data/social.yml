@@ -9,6 +9,6 @@
   color: '#E4405F'
 
 - name: mastodon
-  url: https://dresden.social/@example
+  url: https://dresden.network/@Skalli
   icon: ri:mastodon-fill
   color: '#6364FF'
