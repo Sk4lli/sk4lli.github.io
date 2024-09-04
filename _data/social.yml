@@ -12,3 +12,8 @@
   url: https://dresden.network/@Skalli
   icon: ri:mastodon-fill
   color: '#6364FF'
+
+- name: matrix
+  url: @sk4lli:tchncs.de
+  icon: ri:matrix-fill
+  color: '#6364FF
