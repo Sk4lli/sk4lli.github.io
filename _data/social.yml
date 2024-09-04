@@ -15,5 +15,5 @@
 
 - name: matrix
   url: @sk4lli:tchncs.de
-  icon: ri:matrix-fill
+  icon: ph:matrix-logo-fill
   color: '#6364FF
