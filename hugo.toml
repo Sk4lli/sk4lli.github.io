@@ -4,6 +4,7 @@ title = 'Mein Blog'
 theme = 'hello-friend-ng'
 
 [params]
+ mainSections = ["posts"]
   # Standard-Farbschema (dark oder light)
   defaultTheme = "dark"
   # Menü-Anzeige
