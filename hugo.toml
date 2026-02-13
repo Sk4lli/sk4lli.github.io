@@ -1,3 +1,11 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://hartwich.cc'
+languageCode = 'de-de'
+title = 'Mein Blog'
+theme = 'hello-friend-ng'
+
+[params]
+  # Standard-Farbschema (dark oder light)
+  defaultTheme = "dark"
+  # Menü-Anzeige
+  showMenuItems = 5
+
