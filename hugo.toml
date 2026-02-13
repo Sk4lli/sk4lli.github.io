@@ -9,6 +9,12 @@ theme = 'hello-friend-ng'
   defaultTheme = "dark"
   # Menü-Anzeige
   showMenuItems = 5
+  [[params.social]]
+   name = "mastodon"
+   url = "https://dresden.network/@Skalli"
+  [[params.social]]
+   name = "github"
+   url = "https://github.com/Sk4lli"
 
 [[menu.main]]
   identifier = "posts"
