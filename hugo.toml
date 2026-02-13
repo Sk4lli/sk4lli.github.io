@@ -9,3 +9,8 @@ theme = 'hello-friend-ng'
   # Menü-Anzeige
   showMenuItems = 5
 
+[[menu.main]]
+  identifier = "posts"
+  name = "Blog"
+  url = "/posts/"
+  weight = 10
